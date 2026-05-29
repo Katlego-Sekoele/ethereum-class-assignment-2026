@@ -15746,6 +15746,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"permit2@github:Uniswap/permit2":
+  version: 1.0.0
+  resolution: "permit2@https://github.com/Uniswap/permit2.git#commit=cc56ad0f3439c502c246fc5cfcc3db92bb8b7219"
+  checksum: 10/73828ce5f76d0ec488cdbf8891922d71efc4dff449fee86e6a656515681a364ca7f3676b3a6aaf4fee11dffbd508ff13773432f72b2559279e834e2795255464
+  languageName: node
+  linkType: hard
+
 "picocolors@npm:1.0.0":
   version: 1.0.0
   resolution: "picocolors@npm:1.0.0"
@@ -17074,6 +17081,7 @@ __metadata:
     "@uniswap/v4-core": "npm:^1.0.2"
     "@uniswap/v4-periphery": "npm:^1.0.3"
     lint-staged: "npm:~13.2.2"
+    permit2: "github:Uniswap/permit2"
   languageName: unknown
   linkType: soft
 

@@ -57,6 +57,7 @@
   },
   "dependencies": {
     "@uniswap/v4-core": "^1.0.2",
-    "@uniswap/v4-periphery": "^1.0.3"
+    "@uniswap/v4-periphery": "^1.0.3",
+    "permit2": "github:Uniswap/permit2"
   }
 }
